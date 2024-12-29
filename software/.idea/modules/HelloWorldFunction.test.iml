@@ -15,6 +15,7 @@
     <orderEntry type="library" name="Gradle: com.amazonaws:aws-lambda-java-core:1.2.2" level="project" />
     <orderEntry type="library" name="Gradle: com.amazonaws:aws-lambda-java-events:3.11.0" level="project" />
     <orderEntry type="library" name="Gradle: software.amazon.awssdk:dynamodb-enhanced:2.29.41" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.18.2" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.18.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.projectlombok:lombok:1.18.36" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.11.4" level="project" />
